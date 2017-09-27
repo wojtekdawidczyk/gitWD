@@ -6,7 +6,9 @@ public class Pierwsza {
 		
 		System.out.println("pierwsza klasa");
 		
-		
 		System.out.println("nowa linijka");
+		
+		System.out.println("dodano o 14:15");
+		
 	}
 }

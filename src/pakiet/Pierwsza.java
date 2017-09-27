@@ -6,5 +6,7 @@ public class Pierwsza {
 		
 		System.out.println("pierwsza klasa");
 		
+		
+		System.out.println("nowa linijka");
 	}
 }
